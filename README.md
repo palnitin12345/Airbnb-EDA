@@ -19,7 +19,7 @@ This EDA project serves as a foundation for analyzing the dataset, visualizing d
 
 Dataset
 
-The dataset used in this project is a collection of Airbnb listings, obtained from source. It includes the following attributes:
+The dataset used in this project is a collection of Airbnb listings, obtained from Almabetter. It includes the following attributes:
 
 id: Unique identifier for each listing
 name: Title or name of the listing
@@ -66,7 +66,7 @@ Getting Started
 To get started with this project, follow these steps:
 
 Clone the repository to your local machine or download the project files.
-Obtain the Airbnb dataset from source and place it in the data directory.
+Obtain the Airbnb dataset from repository and place it in the data directory.
 Install the required dependencies using the instructions provided in the Dependencies section
 
 
